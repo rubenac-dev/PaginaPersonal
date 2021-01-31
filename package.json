@@ -15,7 +15,9 @@
     "@nuxt/typescript-runtime": "^2.0.1",
     "@nuxtjs/axios": "^5.12.5",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.14.12",
+    "prismic-dom": "^2.2.4",
+    "prismic-javascript": "^3.0.2"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.12",
