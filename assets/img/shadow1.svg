@@ -1,0 +1,35 @@
+<svg width="824" height="681" viewBox="0 0 824 681" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path d="M195.067 197.732L477.818 272.871L272.125 481.865L195.067 197.732Z" stroke="url(#paint0_linear)" stroke-opacity="0.01" stroke-width="16"/>
+<path d="M259.205 261.901L391.195 296.976L295.176 394.535L259.205 261.901Z" stroke="url(#paint1_linear)" stroke-opacity="0.01" stroke-width="16"/>
+<path d="M627.266 483.091L345.073 405.884L552.291 198.401L627.266 483.091Z" stroke="url(#paint2_linear)" stroke-opacity="0.01" stroke-width="16"/>
+<path d="M539.063 329.984L528.234 288.429L435.507 380.831L561.716 415.127L551.878 376.613" stroke="url(#paint3_linear)" stroke-opacity="0.01" stroke-width="16"/>
+</g>
+<defs>
+<filter id="filter0_d" x="181.712" y="182.898" width="458.826" height="320.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.820833 0 0 0 0 0 0 0 0 0 0.197 0 0 0 0.54 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="493.171" y1="268.664" x2="136.528" y2="365.387" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E41C1C"/>
+<stop offset="1" stop-color="#173EA3"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="406.547" y1="292.769" x2="223.653" y2="342.37" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E41C1C"/>
+<stop offset="1" stop-color="#173EA3"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="329.69" y1="409.978" x2="687.031" y2="315.869" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E41C1C"/>
+<stop offset="1" stop-color="#173EA3"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="499.404" y1="288.221" x2="498.491" y2="414.67" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E41C1C"/>
+<stop offset="1" stop-color="#173EA3"/>
+</linearGradient>
+</defs>
+</svg>

@@ -8,6 +8,12 @@
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background: linear-gradient(
+      180deg,
+      rgba(0, 21, 132, 0.066) 53.34%,
+      rgb(186 1 190 / 12%) 122.76%
+    ),
+    #090808;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
